@@ -4,7 +4,7 @@
 //alert también.
 //Invocar la función y enviar los argumentos con diferentes números para probar.
 
-function calcularMayor(num1,num2){
+const calcularMayor=(num1,num2)=>{
 
     if(num1>num2){
         window.alert(num1+" es mayor a "+num2);
@@ -17,4 +17,4 @@ function calcularMayor(num1,num2){
     }
 
 }
-calcularMayor(422,424);
+calcularMayor(422,422);
