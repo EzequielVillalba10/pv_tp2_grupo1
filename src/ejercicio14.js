@@ -1,4 +1,5 @@
-let numeros = [ 7,22,13,8,10];
+let numeros = [ 5,22,13,8,10];
+console.log(numeros);
 let nuevoArreglo = duplicar(numeros);
 
 
