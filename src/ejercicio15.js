@@ -1,6 +1,6 @@
 // EJERCICO 15
 
-function retornarMes(mes)
+let retornarMes = mes =>
 {
     if(mes>0 && mes<13)
     {
