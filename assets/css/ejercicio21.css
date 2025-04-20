@@ -1,0 +1,45 @@
+ body{
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(176, 119, 119);
+    margin: 20px;
+}
+h1{
+    color: rgb(240, 242, 244);
+    text-align: center;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+#resultado {
+font-size: 24px;
+color: azure;
+font-weight: bold;
+border-radius: 10px;
+padding: 20px;
+box-shadow: 0 0 10px rgba(20, 20, 20, 0.1);
+}
+
+#texto{
+width: 300px;
+height: 30px;
+box-shadow: 0 0 10px rgb(0, 0, 0, 0.1);
+padding: 10px;
+font-size: 20px;
+border: #00698f;
+border-radius: 5px;
+margin: 0 auto;
+display: block;
+}
+#contenedor {
+   width: 100%;
+   align-content: center;
+   text-align: center;
+    
+}
+#clase{
+    margin-bottom: 20px;
+    color: #fff;
+}
+
