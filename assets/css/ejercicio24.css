@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin : 50px;
+    transition: background-color 0.5s ease-in-out;
+}
+
+#pantallaInicio, #pantallaColor {
+    text-align: center;
+    padding: 40px;
+}
+#cambiarColorBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+#cambiarColorBtn:hover {
+    background-color: #0056b3;
+}
+
+#cambiarColorBtn2 {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    
+    border: none;
+    border-radius: 8px;
+}
+
+
+#pantallaColor img{
+    margin-top: 15px;
+    max-width: auto;
+    height: auto;
+}
+
+
+#colorActual {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
