@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+
+  }
+  
+  .contenedor{
+    width: 300px;
+  margin: 100px auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  }
+  p {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #159e71;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
